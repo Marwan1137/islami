@@ -1,0 +1,18 @@
+{
+    "islami":"إسلامي",
+    "@islami": {},
+    "quran":"ٌالقرآن",
+    "@quran": {},
+    "hadeth":"ٌأحاديث",
+    "@hadeth": {},
+    "sebha":"ٌسبحة",
+    "@sebha": {},
+    "radio":"ٌراديو",
+    "@radio": {},
+    "settings":"ٌالإعدادات",
+    "@settings": {},
+    "language":"ٌاللغة",
+    "@language": {},
+    "dark_mode":"ٌوضع مظلم",
+    "@dark_mode": {}
+}

@@ -1,0 +1,19 @@
+{
+    "islami":"Islami",
+    "@islami": {},
+    "quran":"Quran",
+    "@quran": {},
+    "hadeth":"Hadeth",
+    "@hadeth": {},
+    "sebha":"Sebha",
+    "@sebha": {},
+    "radio":"Radio",
+    "@radio": {},
+    "settings":"Settings",
+    "@settings": {},
+    "language":"Language",
+    "@language": {},
+    "dark_mode":"Dark Mode",
+    "@dark_mode": {}
+    
+}
